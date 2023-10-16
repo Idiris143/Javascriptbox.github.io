@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('baground.jpeg');
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+    font-size: 1.7rem;
+    text-align: center;
+
+}
+
+h1 {
+    color: rgb(12, 3, 3);
+}
+
+
+button {
+    width: 100px;
+    height: 80px;
+    font-size: 1.4rem;
+}
